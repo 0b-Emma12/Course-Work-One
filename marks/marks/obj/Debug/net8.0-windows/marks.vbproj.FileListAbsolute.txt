@@ -1,0 +1,16 @@
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\obj\Debug\net8.0-windows\marks.Form1.resources
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\obj\Debug\net8.0-windows\marks.vbproj.GenerateResource.cache
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\obj\Debug\net8.0-windows\marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\obj\Debug\net8.0-windows\marks.AssemblyInfoInputs.cache
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\obj\Debug\net8.0-windows\marks.AssemblyInfo.vb
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\obj\Debug\net8.0-windows\marks.vbproj.CoreCompileInputs.cache
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\bin\Debug\net8.0-windows\marks.exe
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\bin\Debug\net8.0-windows\marks.deps.json
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\bin\Debug\net8.0-windows\marks.runtimeconfig.json
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\bin\Debug\net8.0-windows\marks.dll
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\bin\Debug\net8.0-windows\marks.pdb
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\obj\Debug\net8.0-windows\marks.dll
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\obj\Debug\net8.0-windows\refint\marks.dll
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\obj\Debug\net8.0-windows\marks.pdb
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\obj\Debug\net8.0-windows\marks.genruntimeconfig.cache
+C:\Users\JANVIER ARMSTRONG\Desktop\Obuku Emmanuel\marks\marks\obj\Debug\net8.0-windows\ref\marks.dll
